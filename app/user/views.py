@@ -10,8 +10,8 @@ class CreateUserView(generics.CreateAPIView):
     serializer_class = UserSerializer
 
     def post(self, request, *args, **kwargs):
-         user = super().post(request)
-         return user
+        user = super().post(request)
+        return user
 
 
 class CreateTokenView(ObtainAuthToken):
