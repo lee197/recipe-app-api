@@ -52,3 +52,20 @@ run the server:
 ## Running the tests
 
 `python manage.py test`
+
+
+## Author:
+
+*  Qi Li
+*  This is the project developed followed udemy course: 
+
+https://www.udemy.com/certificate/UC-bf301dc3-0f49-46d0-895e-c1e418fa4a44/
+
+* If anyone want to see my own python project code, please check: 
+
+https://github.com/ireland-advisor/Advisor
+
+## Contact:
+
+* https://www.linkedin.com/in/lee-qi/
+* www.leeqii.com
